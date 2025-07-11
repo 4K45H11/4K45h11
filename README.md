@@ -49,9 +49,5 @@ A CRM application with dashboard, lead/agent management, status filters, and a r
 - Learning advanced backend features (authentication, APIs, performance)
 - Improving deployment and CI/CD workflows
 
----
 
-## 📝 License
-
-This portfolio and associated projects are open-source and available under the [MIT License](LICENSE).
 
