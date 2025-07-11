@@ -8,12 +8,12 @@ Hi, I'm **Akash** — a passionate Full Stack Web Developer with a focus on the 
 
 ### 🌱 [Basundhara Organic Farm](https://webapp-farm-frontend.vercel.app/)
 A farm-based e-commerce web app with cart, filters, search, address and order management, and user-friendly checkout.
-- **Stack**: React, Node.js, MongoDB
+- **Stack**: React, Node.js, MongoDB, Express
 - **GitHub**: [Frontend Repo](https://github.com/4K45H11/webapp-farm-frontend)
 
 ### 📊 CRM Dashboard App
 A CRM application with dashboard, lead/agent management, status filters, and a reports page using Chart.js (bar & pie charts).
-- **Stack**: MERN (MongoDB, Express, React, Node.js)
+- **Stack**: MongoDB, Express, React, Node.js, Chart.js
 - **GitHub**: [Frontend Repo](https://github.com/4K45H11/webapp-crm-frontend)
 
 ---
