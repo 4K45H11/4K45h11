@@ -5,7 +5,7 @@ Hi, I'm **Akash** — a passionate Full Stack Web Developer with a focus on the 
 ---
 
 ## 🌱 Portfolio
-Visit my portfolio [link](https://vercel.com/4k45h11s-projects/portfolio-akash-jana)
+Visit my portfolio [link](https://portfolio-akash-jana.vercel.app/)
 
 ## 🚀 Featured Projects
 
