@@ -14,7 +14,7 @@ A farm-based e-commerce web app with cart, filters, search, address and order ma
 ### 📊 CRM Dashboard App
 A CRM application with dashboard, lead/agent management, status filters, and a reports page using Chart.js (bar & pie charts).
 - **Stack**: MERN (MongoDB, Express, React, Node.js)
-- **Features**: Lead tracking, agent form, charts, and filters
+- **GitHub**: [Frontend Repo](https://github.com/4K45H11/webapp-crm-frontend)
 
 ---
 
